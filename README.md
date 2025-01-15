@@ -1,6 +1,7 @@
 # table_html_css
 Hi-Kod Front-End Atölyesi ödev-1
 <table>
+  <link href="style.css" rel="stylesheet" type="text/css">
   <tr>
     <th>Name</th>
     <th>Surname</th>
