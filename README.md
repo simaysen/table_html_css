@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <h1>Front-end Atölyesi ilk ödev</h1>
+    <h1 style="color:blue;">Front-end Atölyesi ilk ödev</h1>
 </head>
 <body>
     <table>
@@ -36,4 +36,3 @@
     </table>
 </body>
 </html>
-
