@@ -1,29 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        table {
-            font-family: 'Times New Roman', Times, serif;
-            border-radius: 5px;
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th {
-            background-color: beige;
-            border-color: black;
-            border-width: 5;
-            border-style: double;
-            color: cadetblue;
-            padding: 10px;
-        }
-        td {
-            font-style: italic;
-            border-width: 15px;
-        }
-        th:nth-child(even), td:nth-child(even) {
-            background-color: rgba(150, 212, 212, 0.4);
-        }
-    </style>
+    <h1>Front-end Atölyesi ilk ödev</h1>
 </head>
 <body>
     <table>
